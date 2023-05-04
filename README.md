@@ -1,6 +1,10 @@
 # About
 I'm a python engineer.
 
+- Data Processing
+- Deep Learning
+- Image Processing
+
 # Github status
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ymsk-sky&date_format=%5BY%20%5DM%20j&type=png)](https://git.io/streak-stats)

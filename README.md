@@ -44,3 +44,4 @@ I'm a python engineer.
 # Other
 - <a href="https://qiita.com/ymsk_sky" target="_blank">Qiita (ymsk_sky)</a>
 - <a href="https://atcoder.jp/users/ymsksky" target="_blank">AtCoder (ymsksky)</a>
+- <a href="https://twitter.com/ymsksky" target="_blank">Twitter (ymsksky)</a>

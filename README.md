@@ -1,9 +1,11 @@
 # About
-I'm a python engineer.
+Hi, I'm a python engineer.
 
 - Data Processing
 - Deep Learning
 - Image Processing
+- Backend API
+- Basic design
 
 # Github status
 

@@ -1,47 +1,33 @@
 # About
-Hi, I'm a python engineer.
+ymsk-skyです。SESエンジニアとして働いています。
 
-- Data Processing
-- Deep Learning
-- Image Processing
-- Backend API
-- Basic design
+業務では主にPythonを使用しています。\
+趣味は競技プログラミング(AtCoder)で、基本毎日Pythonコードを書くようにしています。
+
+業務ではWebアプリケーションのバックエンド・フロントエンド、AI(物体検出など)開発、ロジック作成、画像処理、スマートフォンアプリ開発など幅広くいろいろなことをやっています。\
+基本設計書作成、開発、単体試験、結合試験、と下流工程の業務を好んで行っています。
+
 
 # Github status
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ymsk-sky&date_format=%5BY%20%5DM%20j&type=png)](https://git.io/streak-stats)
 
-<p align="left"> 
+<p align="left">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymsk-sky&layout=compact&show_icons=true" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ymsk-sky&show_icons=ture" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ymsk-sky)](https://github.com/ymsk-sky/github-profile-trophy)
 
-# Languages and Tools
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  </a>
-</p>
+# Skills
+## Language
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,dart,html,js,ts,py,sqlite)](https://skillicons.dev)
+
+## Frameworks
+[![My Skills](https://skillicons.dev/icons?i=electron,fastapi,flutter,laravel,opencv,pytorch,qt,rails,react,vue)](https://skillicons.dev)
+
+## Tools
+[![My Skills](https://skillicons.dev/icons?i=arduino,docker,git,github,visualstudio,vscode)](https://skillicons.dev)
 
 # Other
 - <a href="https://qiita.com/ymsksky" target="_blank">Qiita (ymsksky)</a>
